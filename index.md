@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my personal page
 
 You can use the [editor on GitHub](https://github.com/valkelaf/cautious-antilope/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
