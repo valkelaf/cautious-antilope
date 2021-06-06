@@ -1,19 +1,19 @@
-## Welcome to my personal page
+## Welcome to Pus's personal page
 
-You can use the [editor on GitHub](https://github.com/valkelaf/cautious-antilope/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [photos from the acquarium of Genoa](https://www.acquariodigenova.it/wp/wp-content/uploads/2019/05/polpo-gigante-4.jpg) to view Pus in its natural habitat.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Alternatively an [exemplary from an acquarium in Mexico](https://www.youtube.com/watch?v=5R6y-neMTA0Whenever)and one [from Turin](https://www.youtube.com/watch?v=xvFZjo5PgG0) to convince you about how cool these animals really are.
 
-### Markdown
+### Pus
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Pus is a red 8-legged octopus. He grew up off the coast of liguria until he found himself in the store of the "Acquario di Genova" and subsequently purchased by the LeNoes cause he was too freaking cute to let go.
 
 ```markdown
-Syntax highlighted code block
+Example Pus cuteness level
 
-# Header 1
-## Header 2
-### Header 3
+# Cuteness 1
+## Cuteness 2
+### Cuteness 3
 
 - Bulleted
 - List
@@ -26,12 +26,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see LaNoe.
 
-### Jekyll Themes
+### Diet
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/valkelaf/cautious-antilope/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Pus has a varied diet consisting of crustaceans and bivalves.
