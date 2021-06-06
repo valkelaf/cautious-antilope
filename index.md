@@ -31,3 +31,6 @@ For more details see LaNoe.
 ### Diet
 
 Pus has a varied diet consisting of crustaceans and bivalves.
+
+### About
+[Contact form](/contact-us.md)
