@@ -7,6 +7,7 @@ Alternatively an [exemplary from an acquarium in Mexico](https://www.youtube.com
 ### Pus
 
 Pus is a red 8-legged octopus. He grew up off the coast of liguria until he found himself in the store of the "Acquario di Genova" and subsequently purchased by the LeNoes cause he was too freaking cute to let go.
+<iframe src="https://witside.eu.qlikcloud.com/single/?appid=d75846b6-6f2d-4798-8d47-835dda209d5c&obj=fXQsYP&theme=horizon&opt=ctxmenu,currsel" style="border:none;width:100%;height:100%;"></iframe>
 
 ```markdown
 Example Pus cuteness level
